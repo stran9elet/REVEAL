@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001/api/posts";
+const BASE_URL = "https://reveal-your-real-side.herokuapp.com/api/posts";
 
 // TODO: implement update and delete routes for post, update and delete routes for comment, and delete routes for comments. For that, first give ids to each comment
 

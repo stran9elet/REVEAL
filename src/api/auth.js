@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3001/api/auth";
+const BASE_URL = "https://reveal-your-real-side.herokuapp.com/api/auth";
 
 export async function login(email, password) {
 	// wait for the server to respond. Server will respond with a promise
