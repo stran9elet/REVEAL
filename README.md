@@ -1,4 +1,4 @@
-`<img src="./title.png" alt="title image">`
+<img src="https://raw.githubusercontent.com/sw-257/REVEAL/main/title.png" alt="title image">
 
 By  keeping something secret, people can protect their their reputation and  their relationships with close others. Yet, when people choose to keep  secrets, they run the risk of feeling isolated from other people, which  can lead to negative well-being outcomes.
 
